@@ -1,3 +1,2 @@
-console.log('Hello React');
-console.log('React App Started');
-console.log('Another change before commit');
+console.log('I am Pamuda, a collaborator of your project');
+
